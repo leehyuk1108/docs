@@ -1,0 +1,8 @@
+{
+  "repo_notes": [
+    {
+      "content": "이 저장소의 DeepWiki 문서와 Ask DeepWiki 답변은 한국어를 기본 언어로 작성하세요. 기본 브랜치는 korean이며, README.md가 한국어 기준 문서입니다. README.en.md와 upstream ophwug/docs는 영어 원문 또는 대조용 참고 자료로만 사용하세요. comma, openpilot, OBD-C, Panda, SOM, CAN, C3, C3X, C4, AGNOS 같은 제품명과 기술 용어, 칩/부품 번호는 한국어 README에서 이미 번역한 경우를 제외하고 원문 표기를 유지하세요. 수리 결론이나 진단 절차는 원문 문서에 없는 내용을 새로 만들어내지 말고, 사례와 경고의 의미를 그대로 유지하세요.",
+      "author": "Codex"
+    }
+  ]
+}

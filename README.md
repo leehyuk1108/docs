@@ -15,18 +15,18 @@ Discord 검색은 매우 좋지 않고, 안에 있는 내용은 검색 엔진에
 > [!TIP]
 > 이 문서는 매우 깁니다. 출력하면 **50페이지 이상**입니다. 한 번에 전부 집중해서 읽을 필요는 전혀 없습니다. **🤖 AI 어시스턴트를 사용해 관련 섹션을 더 빠르게 찾으세요.**
 >
-> 인용과 참고 문헌을 함께 보며 질문하기에는 [DeepWiki](https://deepwiki.com/ophwug/docs)가 좋은 선택이라 추천합니다.
+> 인용과 참고 문헌을 함께 보며 질문하기에는 [DeepWiki](https://deepwiki.com/leehyuk1108/docs)가 좋은 선택이라 추천합니다.
 >
 > * DeepWiki는 최신 문서보다 일주일 정도 늦을 수 있습니다.
 > * DeepWiki가 이미지를 보거나 표시하지 못할 수 있으므로, 원문 섹션도 함께 확인하세요.
 >
 > DeepWiki를 사용하려면 아래 링크로 이동한 뒤 채팅 인터페이스에 질문을 입력하면 됩니다.
 >
-> https://deepwiki.com/ophwug/docs
+> https://deepwiki.com/leehyuk1108/docs
 >
-> [![deepwiki 데모 애니메이션](https://github.com/user-attachments/assets/f14e8dda-f7ca-457c-a358-3a2fc1a666ae)](https://deepwiki.com/ophwug/docs)
+> [![deepwiki 데모 애니메이션](https://github.com/user-attachments/assets/f14e8dda-f7ca-457c-a358-3a2fc1a666ae)](https://deepwiki.com/leehyuk1108/docs)
 >
-> openpilot 하드웨어에 대해 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ophwug/docs)에 물어보세요!
+> openpilot 하드웨어에 대해 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/leehyuk1108/docs)에 물어보세요!
 >
 > DeepWiki가 이 문서를 제대로 해석하고 있는지 확신이 없다면, Discord에 DeepWiki 대화 링크를 공유해도 좋습니다.
 >
