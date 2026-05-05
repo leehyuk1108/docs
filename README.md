@@ -1,5 +1,8 @@
 # Unofficial documentation of unofficial fixes and tweaks to comma and unofficial openpilot hardware
 
+> [!NOTE]
+> Korean translation: [README.ko.md](README.ko.md)
+
 The [comma.ai Discord][cdiscord] isn't really a good place to store _answers_ or guidance to questions about repairing and maintaining the hardware.
 Discord's search is terrible, and the content inside of it isn't accessible to search engines.
 This is an attempt to document some of the common issues and fixes that were discussed in the Discord onto the public internet so that they can be found by search engines.
