@@ -3,6 +3,8 @@
 > [!NOTE]
 > 이 브랜치에서는 한국어 번역본을 기본 README로 표시합니다. 영어 원문은 [README.en.md](README.en.md)에 보관되어 있습니다. 원문의 구조, 링크, 사례 구분을 최대한 유지하면서 자연스러운 한국어로 옮겼습니다. 기술 용어와 제품명은 원문과 대조하기 쉽도록 대체로 그대로 두었습니다.
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/leehyuk1108/docs)
+
 <a id="unofficial-documentation-of-unofficial-fixes-and-tweaks-to-comma-and-unofficial-openpilot-hardware"></a>
 # comma 및 비공식 openpilot 하드웨어의 비공식 수리/조정 문서
 
